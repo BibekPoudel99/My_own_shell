@@ -22,5 +22,7 @@ python main.py  # Run the shell
 🎯 Future Improvements
 
 Add syntax highlighting
+
 Improve command history navigation and working on more improved GUI.
+
 Support for more advanced shell scripting
