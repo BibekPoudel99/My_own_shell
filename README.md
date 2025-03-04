@@ -18,6 +18,7 @@ git clone https://github.com/BibekPoudel99/My_own_shell.git
 cd My_own_shell
 python main.py  # Run the shell
 
+```
 🎯 Future Improvements
 Add syntax highlighting
 Improve command history navigation and working on more improved GUI.
