@@ -2,7 +2,7 @@
 
 A feature-rich shell emulator built with Python and Tkinter, supporting built-in commands, auto-completion, and redirection.  
 
-## 🚀 Features  
+##  Features  
 
 - **Command Execution** – Run shell commands like `ls`, `cd`, `mkdir`, `rm`, `cp`, `mv`, etc.  
 - **Pipelining & Background Execution** – Supports `|` for command chaining and `&` for background tasks.  
